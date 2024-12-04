@@ -1,0 +1,139 @@
+{
+  "books": [
+    {
+      "id": "as5",
+      "title": "Book1",
+      "author": "Author1",
+      "photo": "https://m.media-amazon.com/images/I/41tSOOk907L._SY445_SX342_.jpg",
+      "rating": 4,
+      "reviews": [
+        {
+          "email": "dawdaw@gmail.com",
+          "text": "Amazing Book!",
+          "rate": 5
+        },
+        {
+          "email": "dawdaw@gmail.com",
+          "text": "Amazing Book!",
+          "rate": 4
+        },
+        {
+          "email": "jnajwkdn@dawd",
+          "text": "awdawdaw",
+          "rate": "3"
+        }
+      ]
+    },
+    {
+      "id": "a55",
+      "title": "Book2",
+      "author": "Author2",
+      "photo": "https://m.media-amazon.com/images/I/41yR31dRR+L._SY445_SX342_.jpg",
+      "rating": 0,
+      "reviews": []
+    },
+    {
+      "id": "as7",
+      "title": "Book3",
+      "author": "Author3",
+      "photo": "https://m.media-amazon.com/images/I/41gyeeYBnsL._SY445_SX342_.jpg",
+      "rating": 2,
+      "reviews": [
+        {
+          "email": "dawdaw@gmail.com",
+          "text": "Amazing Book!",
+          "rate": 4
+        },
+        {
+          "email": "dawdaw@gmail.com",
+          "text": "Amazing Book!",
+          "rate": 3
+        },
+        {
+          "email": "dadwbh@gmail.am",
+          "text": "dawd",
+          "rate": "2"
+        }
+      ]
+    },
+    {
+      "id": "aa7",
+      "title": "Book4",
+      "author": "Author4",
+      "photo": "https://m.media-amazon.com/images/I/41-e109KI5L._SY445_SX342_.jpg",
+      "rating": 3,
+      "reviews": [
+        {
+          "email": "dwad",
+          "text": "dawdawd",
+          "rate": "3"
+        },
+        {
+          "email": "dawdwad",
+          "text": "dawdwadwa",
+          "rate": "3"
+        }
+      ]
+    },
+    {
+      "id": "f09f",
+      "title": "Book5",
+      "author": "Author5",
+      "photo": "https://m.media-amazon.com/images/I/41BDA10bAjL._SY445_SX342_.jpg",
+      "rating": 5,
+      "reviews": [
+        {
+          "email": "dawdaw@gmail.com",
+          "text": "Amazing Book!",
+          "rate": 2
+        },
+        {
+          "email": "dawdaw@gmail.com",
+          "text": "Amazing Book!",
+          "rate": 1
+        }
+      ]
+    },
+    {
+      "id": "1c0b",
+      "title": "Book6",
+      "author": "Author6",
+      "photo": "https://m.media-amazon.com/images/I/41NXCgLwSEL._SY445_SX342_.jpg",
+      "rating": 0,
+      "reviews": []
+    },
+    {
+      "id": "014a",
+      "title": "Book7",
+      "author": "Author 7",
+      "photo": "https://m.media-amazon.com/images/I/41BDA10bAjL._SY445_SX342_.jpg",
+      "rating": 2,
+      "reviews": [
+        {
+          "email": "aaproyan@bk.ru",
+          "text": "I don't like",
+          "rate": "2"
+        }
+      ]
+    },
+    {
+      "id": "253e",
+      "title": "New Book",
+      "author": "dawdwadawd",
+      "photo": "https://img-cdn.pixlr.com/image-generator/history/65bb506dcb310754719cf81f/ede935de-1138-4f66-8ed7-44bd16efc709/medium.webp",
+      "rating": 4,
+      "reviews": [
+        {
+          "email": "dav.gevorgyan3.y@gmail.com",
+          "text": "Good",
+          "rate": "4"
+        },
+        {
+          "email": "dav.gevorgyan.main@gmail.com",
+          "text": "Heyy!",
+          "rate": "4"
+        }
+      ]
+    }
+  ]
+}

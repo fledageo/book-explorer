@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.wrapper{
+    width: 50%;
+    margin-top: 20px;
+}
+
+.wrapper > p {
+    text-align: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

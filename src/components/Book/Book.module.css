@@ -1,0 +1,21 @@
+.block {
+    width: 150px;
+    background-color: #80AF81;
+    padding: 10px 20px;
+    border-radius: 15px;
+    transition: 0.6s;
+}
+.block:Hover{
+    transform: scale(1.1);
+}
+.info{
+    display: flex;
+    flex-direction: column;
+}
+.title{
+    font-size: 18px;
+}
+.author{
+    color: grey;
+    font-size: 15px;
+}

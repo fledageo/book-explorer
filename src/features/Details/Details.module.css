@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0 100px 0;
+}
+.wrapper{
+    
+}
+.infoWrapper{
+    background-color: whitesmoke;
+    border-radius: 15px;
+    padding: 20px;
+    display: flex;
+}
+.imgBlock{
+    margin-right: 40px;
+}
+.title{
+    font-size: 30px;
+}
+.author{
+    font-size: 18px;
+    color: gray;
+}
+.reviews{
+    margin-top: 20px;
+}
+
+.email{
+    color: grey;
+    font-size: 13px;
+}

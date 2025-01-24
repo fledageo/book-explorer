@@ -21,3 +21,7 @@
 - **RTK Query** – For data fetching.
 - **React Router** – For navigation between pages.
 - **JSON Server** – For simulating a backend REST API.
+
+### Installation Steps
+1. npm install, npm run dev
+2. npx json-srver db.json
